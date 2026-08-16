@@ -1,8 +1,3 @@
-**Suggested Titles:**
-
-This Typhoon Traveled Over 6,000 km From Near the Date Line to Zhejiang — I Built a Simulator So You Can Watch Its Entire Life
-
-or
 
 Typhoon Dolphin (2026): A Marathon Storm Across the Pacific — Interactive Simulator Inside
 
